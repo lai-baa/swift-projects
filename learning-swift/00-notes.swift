@@ -64,18 +64,18 @@ let meaningOfLife = 42
 
 let maximumNumberOfLoginAttempts: Int
 
-// print(maximumNumberOfLoginAttempts)
+print(maximumNumberOfLoginAttempts)
 
 var x = 0.0, y = "Hello", z = true
 
-// print(x, y, z)
+print(x, y, z)
 
-x = 1
+x = 1 // prints 1.0: type of variable is Double
 
-// y = 2
+y = 2 // prints error, can't change types
 
-// var welcomeMessage
+var welcomeMessage
 
-// print(welcomeMessage)
+print(welcomeMessage) // prints error, need to initialize variable with type or value
 
-let cat = "🐱"; print(cat)
+let cat = "🐱"; print(cat) // need to add semicolon if 2 code blocks on same line, don't need semicolon if on separate lines
