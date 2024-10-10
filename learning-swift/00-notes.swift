@@ -61,3 +61,21 @@ let cat = "🐱"; print(cat)
 
 let meaningOfLife = 42
 // meaningOfLife is inferred to be of type Int
+
+let maximumNumberOfLoginAttempts: Int
+
+// print(maximumNumberOfLoginAttempts)
+
+var x = 0.0, y = "Hello", z = true
+
+// print(x, y, z)
+
+x = 1
+
+// y = 2
+
+// var welcomeMessage
+
+// print(welcomeMessage)
+
+let cat = "🐱"; print(cat)
