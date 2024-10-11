@@ -5,7 +5,7 @@ let maximumNumberOfLoginAttempts = 10
 var currentLoginAttempt = 0
 
 var environment = "development"
-let maximumNumberOfLoginAttempts: Int
+// let maximumNumberOfLoginAttempts: Int
 // maximumNumberOfLoginAttempts has no value yet.
 
 
